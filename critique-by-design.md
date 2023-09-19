@@ -28,3 +28,31 @@ The primary audience for this tool is government programmatic staff/leadership, 
 Overall, Few's method was fine. I felt a lot of the categories, such as perceptibility, intuitiveness, and aesthetics, had a lot of overlapping elements so it was difficult to try and distinguish between the three. But I think the foundation is there and it's important to consider all these elements when designing/critiquing a data visualization - just potentially format it different. Also, the number scaling is probably unnecessary; instead of 0-10 you honestly could just have "Needs a ton of work", "Is Adequate", and "Does pretty well" and you have the gist of it.
 
 ## Step three: sketch out a solution
+So, understanding that I likely would need to keep the table in some capacity as that level of detail is needed for some audience members, I decided that I'd try to create a supplemental visual that would convey the high level spending progress. That way someone could, at a glance, see what initiatives still had a bit to go. I would try to combine categories while still keeping the main CRRSA vs ARPA distinction.
+![Sketch](https://github.com/cfrias1/portfolio/assets/144168691/007b34aa-a25b-4152-854b-7ca5b1346c6c)
+
+## Step four: Test the solution
+Feeback #1: student, mid-20s
+Can you tell me what you think this is?
+> Spending progress for DCC bc that's the title
+Can you describe to me what this is telling you?
+> Some things are more spent than others
+Is there anything you find surprising or confusing?
+> I don't know what those acronyms mean
+Who do you think is the intended audience for this?
+> Someone who knows what those acroynms mean, your boss?
+
+Feedback #2: student, mid-20s
+Can you tell me what you think this is?
+> Government spending percentage - I recognize the ARPA acroynmn
+Can you describe to me what this is telling you?
+> That you're trying to track expenses of things that have expiration dates
+Is there anything you find surprising or confusing?
+> The red color/0% are pretty aggressive - is that bad?
+Who do you think is the intended audience for this?
+> Someone in government, probably
+
+## Step five: Build your solution
+So, my sketch might have been too ambitious for Flourish, I couldn't get the CRRSA data to be side-by-side with ARPA. Also, I dumbly didn't anticipate how percentage spending might be good to show an even level field between the initiatives but on that same note, it doesn't capture the potential danger of not meeting spending targets. For example, some of the smaller initiatives are only 30% or so completed but not meeting their spending targets would only result in a loss of like $200k; whereas other large initiatives could be 90% complete but that remaining 10% is $5M. Percentages didn't capture that so I kept the proportions but shifted to abbreviated figures, i.e. $5M. Overall, I'm a bit bummed that I couldn't create a visualization that could convey everything the table did in a better way but also feel a little vindicated that I've been presenting a shoddy table all this partly because an alternative isn't super clear/easy.
+# <div class="flourish-embed flourish-chart" data-src="visualisation/15073095"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+# <div class="flourish-embed flourish-chart" data-src="visualisation/15074098"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
