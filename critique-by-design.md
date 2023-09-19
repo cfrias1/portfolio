@@ -35,20 +35,26 @@ So, understanding that I likely would need to keep the table in some capacity as
 Feeback #1: student, mid-20s
 Can you tell me what you think this is?
 > Spending progress for DCC bc that's the title
+
 Can you describe to me what this is telling you?
 > Some things are more spent than others
+
 Is there anything you find surprising or confusing?
 > I don't know what those acronyms mean
+
 Who do you think is the intended audience for this?
 > Someone who knows what those acroynms mean, your boss?
 
 Feedback #2: student, mid-20s
 Can you tell me what you think this is?
 > Government spending percentage - I recognize the ARPA acroynmn
+
 Can you describe to me what this is telling you?
 > That you're trying to track expenses of things that have expiration dates
+
 Is there anything you find surprising or confusing?
 > The red color/0% are pretty aggressive - is that bad?
+
 Who do you think is the intended audience for this?
 > Someone in government, probably
 
