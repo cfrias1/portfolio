@@ -32,7 +32,8 @@ So, understanding that I likely would need to keep the table in some capacity as
 ![Sketch](https://github.com/cfrias1/portfolio/assets/144168691/007b34aa-a25b-4152-854b-7ca5b1346c6c)
 
 ## Step four: Test the solution
-Feeback #1: student, mid-20s
+### Feeback #1: student, mid-20s
+
 Can you tell me what you think this is?
 > Spending progress for DCC bc that's the title
 
@@ -45,7 +46,8 @@ Is there anything you find surprising or confusing?
 Who do you think is the intended audience for this?
 > Someone who knows what those acroynms mean, your boss?
 
-Feedback #2: student, mid-20s
+### Feedback #2: student, mid-20s
+
 Can you tell me what you think this is?
 > Government spending percentage - I recognize the ARPA acroynmn
 
