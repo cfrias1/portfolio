@@ -30,7 +30,8 @@ Direct Cash Assistance is the most effective tool at reducing poverty. As a read
 
 So, just some general data to use to demonstrate pandemic's impact on unemployment rate and food insecurity.
 > “Local Area Unemployment Statistics”, 2022, U.S. Bureau of Labor Statistics,  https://data.bls.gov/timeseries/LASST250000000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
- “Household Pulse Survey Data Tables”, 2022, United States Census Bureau,  https://www.census.gov/programs-surveys/household-pulse-survey/data.html
+
+> “Household Pulse Survey Data Tables”, 2022, United States Census Bureau,  https://www.census.gov/programs-surveys/household-pulse-survey/data.html
 
 Kind of shady looking website, but it serves as a nice jumping off point and has a lot of things conveniently together (like a list of large government programs).
 > “Welfare Issues”, Accessed 2022, Federal Safety Net, https://federalsafetynet.com/welfare-issues/
