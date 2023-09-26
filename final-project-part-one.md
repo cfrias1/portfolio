@@ -34,7 +34,7 @@ So, just some general data to use to demonstrate pandemic's impact on unemployme
 > [“Household Pulse Survey Data Tables”, 2022, United States Census Bureau](https://www.census.gov/programs-surveys/household-pulse-survey/data.html)
 
 Kind of shady looking website, but it serves as a nice jumping off point and has a lot of things conveniently together (like a list of large government programs).
-> [“Welfare Issues”, Accessed 2022, Federal Safety Net](https://federalsafetynet.com/welfare-issues/)
+> [“Welfare Issues”, Accessed 2023, Federal Safety Net](https://federalsafetynet.com/welfare-issues/)
 
 Census data, easy, to show changes in official and SPM poverty rates and there's additional discussion on how pandemic relief spending, mainly stipends and expanded UI benefits, had huge impacts on these measures.
 > [Creamer, John, Emily A. Shrider, Kaylee Burns, and Frances Chen, 2022, “Poverty in the United State: 2021 Current Population Reports” (Report No. P60-277), United States Census Bureau](https://www.census.gov/content/dam/Census/library/publications/2022/demo/p60-277.pdf)
@@ -43,7 +43,7 @@ One data source to show poll populariy of UBI. Will likely add other sources in 
 > [Penumaka, Evangel, Isa Alomran, and Abby Steckel, 2021, “Majority of Voters Support a Guaranteed Income”,  Data For Progress](https://www.filesforprogress.org/memos/voters-support-a-guaranteed-income.pdf)
 
 Some data sources to show number of/sheer vastness of running/completed pilots. Will likely adapt data into own visual.
-> [“The Guaranteed Income Pilots Dashboard”, 2022,  Guaranteed Income Pilots Dashboard](https://guaranteedincome.us/)
+> [“The Guaranteed Income Pilots Dashboard”, 2023,  Guaranteed Income Pilots Dashboard](https://guaranteedincome.us/)
 
 > [Stanford Basic Income Lab [cartographer]. (2020). Global Map of Basic Income Experiments](https://basicincome.stanford.edu/research/basic-income-experiments/)
 
