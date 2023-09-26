@@ -44,7 +44,8 @@ One data source to show poll populariy of UBI. Will likely add other sources in 
 
 Some data sources to show number of/sheer vastness of running/completed pilots. Will likely adapt data into own visual.
 > [“The Guaranteed Income Pilots Dashboard”, 2022,  Guaranteed Income Pilots Dashboard](https://guaranteedincome.us/)
-> [Stanford Basic Income Lab [cartographer]. (2020). Global Map of Basic Income Experiments [map]] (https://basicincome.stanford.edu/research/basic-income-experiments/)
+
+> [Stanford Basic Income Lab [cartographer]. (2020). Global Map of Basic Income Experiments](https://basicincome.stanford.edu/research/basic-income-experiments/)
 
 Some results from one pilot program - will continue search for other sources to help show overall effectiveness.
 > [West, Dr. Stacia, Dr. Amy Castro Baker, Sukhi Samra, and Erin Coltrera, 2021, “Stockton Economic Empowerment Demonstration”, SEED](https://static1.squarespace.com/static/6039d612b17d055cac14070f/t/6050294a1212aa40fdaf773a/1615866187890/SEED_Preliminary+Analysis-SEEDs+First+Year_Final+Report_Individual+Pages+.pdf)
