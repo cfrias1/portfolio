@@ -12,10 +12,9 @@ In general, I want to become better at conveying strong/clear messages through d
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+Part III(final-project-part-three.md)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
