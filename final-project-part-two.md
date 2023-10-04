@@ -40,48 +40,69 @@ Interviewee 3: 20s, female, grad student
 
 Does the progression make logical sense?
 > Interviewee 1: Yes
+
 > Interviewee 2: Yes
+
 > Interviewee 3: Yes
+
 
 Do you have any suggestions on what would make it flow better?
 > Interviewee 1: N/A
+
 > Interviewee 2: Make the three reasons why cash assistance works "catchier", i.e. parallel the phrasing so it's smoother.
+
 > Interviewee 3: Maybe add some bigger callout phrases/numbers to draw attention.
+
 
 Which board did you find the most helpful? Why? 
 > Interviewee 1: The road analogy was really helpful in starting the narrative/showing what the issue is.
+
 > Interviewee 2: The SPM vs Official poverty rate chart was super interesting; I'm just worried that it's misleading because COVID likely impacted the data heavily.
+
 > Interviewee 3: The road imagery was cute.
+
 
 Which board was the most confusing? Why? 
 > Interviewee 1: There was a lot of text to look at in the 1, 2, 3 section.
+
 > Interviewee 2: N/A
+
 > Interviewee 3: N/A
 
+
 Is anything missing that would assist in understanding?  
-> Interviewee 1: Navigation tools, any information on how it'd be funded, any more information related to the pilot programs, potentially saying what UBI is right at the start or adding "Direct Cash Assistance" next to the first mention of it so it's clear. 
+> Interviewee 1: Navigation tools, any information on how it'd be funded, any more information related to the pilot programs, potentially saying what UBI is right at the start or adding "Direct Cash Assistance" next to the first mention of it so it's clear.
+
 > Interviewee 2: Would inflation impact this? Maybe also add more information on why getting children out of poverty would be crucial as children become "new adults". Also maybe add some research findings from pre-1990s/welfare reform that shows the impact of previous cash assistance programs.
+
 > Interviewee 3: Maybe continuing the road imagery.
+
 
 Did you know what UBI was before? 
 > Interviewee 1: Yes
+
 > Interviewee 2: Yes
+
 > Interviewee 3: Yes
+
 
 Are you more inclined to learn more about UBI?
 > Interviewee 1: Yes
+
 > Interviewee 2: Yes
+
 > Interviewee 3: Yes
+
 
 
 # Identified changes for Part III
 
 
-| Research synthesis   | Anticipated changes for Part III                                                                                |
-|-------==-------------|-----------------------------------------------------------------------------------------------------------------|
-| Road metaphor        | Will extend it past the beginning, add a callback                                                               |
-| Headings/key phrases | Will parallel the phrasing, make the takeaway headings/sentences more consistent                                |
-| More evidence        | Will research/add more information related to previous cash assistance programs/potentially expand on SPM chart |
-| Pilot programs       | Will likely add a callout on some pilot programs, show more findings                                            |
+| Research synthesis   | Anticipated changes for Part III                                                                               |
+|----------------------|----------------------------------------------------------------------------------------------------------------|
+| Road metaphor        | Will extend it past the beginning, add a callback                                                              |
+| Headings/key phrases | Will parallel the phrasing, make the takeaway headings/sentences more consistent                               |
+| More evidence        | Will research/add more information related to previous cash assistance programs/ expand on SPM chart           |
+| Pilot programs       | Will likely add a callout on some pilot programs, show more findings                                           |
 
 I think I have a clear direction on where to take this. Aside from creating a lot of these visuals and implementing the above changes, I think I can also expand on some of visuals/animation-esque elements as I get familiarized with shorthand. I also need a color scheme, so that's a tbd. I may have to soliict more feedback once the shorthand and all the visuals are properly created.
