@@ -14,7 +14,7 @@ In general, I want to become better at conveying strong/clear messages through d
 ## Final project
 [Part I](final-project-part-one.md)
 [Part II](final-project-part-two.md)
-Part III(final-project-part-three.md)
+[Part III](final-project-part-three.md)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
