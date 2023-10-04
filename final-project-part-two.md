@@ -1,21 +1,25 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cfrias1.github.io/portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+![Page1](https://github.com/cfrias1/portfolio/assets/144168691/23100d03-0006-4cef-9057-6a3cf1ccb2a6)
+![Page2](https://github.com/cfrias1/portfolio/assets/144168691/e54688e2-09cb-43a7-8f7b-dcd3fa19a95f)
+![Page3](https://github.com/cfrias1/portfolio/assets/144168691/aa778cd2-8ea0-4d54-bc4a-b3f196e674d8)
+![Page4](https://github.com/cfrias1/portfolio/assets/144168691/a6855f9e-0441-42d4-bcef-49700bc631bc)
+![Page5](https://github.com/cfrias1/portfolio/assets/144168691/100fb054-02ac-474e-a211-1ad52bd28072)
+![Page6](https://github.com/cfrias1/portfolio/assets/144168691/5d433908-41a3-4a25-b08c-dc06b6322db8)
+![Page7](https://github.com/cfrias1/portfolio/assets/144168691/a4ad4f43-d1c4-455a-a7fe-b25af23ea5bd)
+![Page8](https://github.com/cfrias1/portfolio/assets/144168691/f6493cd8-9df5-49f5-912a-c808b7948184)
+![Page9](https://github.com/cfrias1/portfolio/assets/144168691/87de4e0f-01e0-469c-a8c4-d11a7a390478)
+![Page10](https://github.com/cfrias1/portfolio/assets/144168691/0e087290-51fc-4c22-88a0-adde4798e9af)
 
-Text here!
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+Individuals who have a vested interest in public assistance/public outcomes/addressing poverty. This led me to interviewing individuals who work in the public sector and who are students in a public policy graduate school program.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
