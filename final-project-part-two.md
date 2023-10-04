@@ -21,16 +21,16 @@ Individuals who have a vested interest in public assistance/public outcomes/addr
 ## Interview script
 
 
-| Goal | Questions to Ask |
-|------|------------------|
-|Have a Story that Flows                                    |Does the progression make logical sense?
-                                                             Do you have any suggestions on what would make it flow better?|
-|Have a Story that Makes Sense                              |Which board did you find the most helpful? Why?
-                                                             Which board was the most confusing? Why?
-                                                             Does anything feel out of place?  
-                                                             Is anything missing that would assist in understanding?       |
-|Have a Story that Peaks People's Curiousity in the Subject |Did you know what UBI was before?
-                                                             Did you learn anything new about it from this rough draft?    |
+| Goal                                                      | Questions to Ask                                             |
+|-----------------------------------------------------------|--------------------------------------------------------------|
+|Have a Story that Flows                                    |Does the progression make logical sense?                      |
+|                                                           |Do you have any suggestions on what would make it flow better?|
+|Have a Story that Makes Sense                              |Which board did you find the most helpful? Why?               |
+|                                                           |Which board was the most confusing? Why?                      |
+|                                                           |Does anything feel out of place?                              |
+|                                                           |Is anything missing that would assist in understanding?       |
+|Have a Story that Peaks People's Curiousity in the Subject |Did you know what UBI was before?                             |
+|                                                           |Did you learn anything new about it from this rough draft?    |
 
 
 
